@@ -7,6 +7,8 @@ public class Main {
         // int
         int i1 = 10;
         int i2 = 20;
+        System.out.println("i1 == i2? " + (i1 == i2));
+        System.out.println("i1 < i2? " + (i1 < i2));
 
         // float
         float f1 = 4.5f;
